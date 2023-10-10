@@ -1,0 +1,16 @@
+Golf_3_1.6,privat,Angebot,480,test,,1993,manuell
+A5_Sportback_2.7_Tdi,privat,Angebot,18300,test,coupe,2011,manuell
+"Jeep_Grand_Cherokee_""Overland""",privat,Angebot,9800,test,suv,2004,automatik
+GOLF_4_1_4__3TÜRER,privat,Angebot,1500,test,kleinwagen,2001,manuell
+Skoda_Fabia_1.4_TDI_PD_Classic,privat,Angebot,3600,test,kleinwagen,2008,manuell
+BMW_316i___e36_Limousine___Bastlerfahrzeug__Export,privat,Angebot,650,test,limousine,1995,manuell
+Peugeot_206_CC_110_Platinum,privat,Angebot,2200,test,cabrio,2004,manuell
+VW_Derby_Bj_80__Scheunenfund,privat,Angebot,0,test,limousine,1980,manuell
+Ford_C___Max_Titanium_1_0_L_EcoBoost,privat,Angebot,14500,control,bus,2014,manuell
+VW_Golf_4_5_tuerig_zu_verkaufen_mit_Anhaengerkupplung,privat,Angebot,999,test,kleinwagen,1998,manuell
+Mazda_3_1.6_Sport,privat,Angebot,2000,control,limousine,2004,manuell
+Volkswagen_Passat_Variant_2.0_TDI_Comfortline,privat,Angebot,2799,control,kombi,2005,manuell
+"VW_Passat_Facelift_35i__""7Sitzer""",privat,Angebot,999,control,kombi,1995,manuell
+VW_PASSAT_1.9_TDI_131_PS_LEDER,privat,Angebot,2500,control,kombi,2004,manuell
+Nissan_Navara_2.5DPF_SE4x4_Klima_Sitzheizg_Bluetooth.Doppelkabine,privat,Angebot,17999,control,suv,2011,manuell
+KA_Lufthansa_Edition_450_VB,privat,Angebot,450,test,kleinwagen,1910,
